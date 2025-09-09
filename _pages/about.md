@@ -7,12 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-This page is meant for you to showcase your case study, podcasts, and blog posts reflecting on our readings. You will need to update the content in each section and submit your site to Moodle (see calendar). Once all sections are updated, revise this paragraph so it summarizes the purpose of your site for new visitors. This can include how to navigate it, what each section contains, and what someone should understand about your work just by reading this introduction.
-
+Welcome to my personal site! Here you’ll find a collection of my work as a Computer Science student. This site contains my case study, podcasts, and blog posts reflecting on class readings, giving you a sense of how I think about technology in relation ethics. You can explore the About Me section to learn a bit about my academic background, the Research section to see the topics I’m most curious about, and the Personal Life section for a more personal look at my interests and goals.
 
 About Me
 ---
-My name is Jocelyn Chavez. I’m a Computer Science student in the Mathematics, Statistics, and Computer Science Department (https://wp.stolaf.edu/mscs/) at St. Olaf College. I'm earning my B.A in Computer Science.
+My name is Jocelyn Chavez. I’m a Computer Science student in the [Mathematics, Statistics, and Computer Science Department](https://wp.stolaf.edu/mscs/) at St. Olaf College. I also studied at the University of St. Thomas for a year, but ultimately transferred to St. Olaf to finish my studies. I'm earning my B.A in Computer Science.
 
 Research 
 ---
@@ -23,6 +22,3 @@ In regards to ethics, I am interested in learning about AI-generated stories and
 Personal Life
 ---
 I’m a Minneapolis native with a passion for both technology and creativity. As a computer science student, I’m especially interested in game design because it allows me to combine these two worlds. One day I’d love to work with an indie game studio, or maybe even start my own!
-
-
-For more info on editing this page: configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
