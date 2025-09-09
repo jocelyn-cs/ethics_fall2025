@@ -22,13 +22,13 @@ repository               : "https://github.com/jocelyn-cs/ethics_fall2025"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "First Last" #update
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left hand sidebar"
+  avatar           : "profile.jpg"
+  name             : "Jocelyn Chavez" #update
+  pronouns         : "she/her"  
+  bio              : "Senior Computer Science Student"
   employer         : "St. Olaf College"
   uri              : # URL
-  email            : #"[username]@stolaf.edu" #update
+  email            : "chavez10@stolaf.edu" #update
 
   # links
   academia         : # URL
