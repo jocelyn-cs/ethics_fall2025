@@ -22,7 +22,7 @@ repository               : "https://github.com/jocelyn-cs/ethics_fall2025"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Jocelyn Chavez" #update
   pronouns         : "she/her"  
   bio              : "Senior Computer Science Student"
