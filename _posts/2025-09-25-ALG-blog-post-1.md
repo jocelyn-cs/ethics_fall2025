@@ -13,7 +13,7 @@ The Exception Exists: Data-Driven Rules in Our Society
 [The Right to Be an Exception to a Data-Driven Rule](https://mit-serc.pubpub.org/pub/right-to-be-exception/release/2)
 
 ## Purpose
-    I believe the purpose of this case study was to help us see the pros and cons of data-driven systems and how exceptions will always be present. I think we are also meant to understand the severity of some of the areas we apply these data-driven rules to, like in our justice system, and how exceptions are handled in such cases.
+  I believe the purpose of this case study was to help us see the pros and cons of data-driven systems and how exceptions will always be present. I think we are also meant to understand the severity of some of the areas we apply these data-driven rules to, like in our justice system, and how exceptions are handled in such cases.
 
 ## Discussion Questions
   1. **What is a data-driven rule, and what does it mean to be a data-driven exception? Is an exception the same as an error?**
