@@ -18,16 +18,16 @@ The Cost of Generative AI
   The purpose of this case study is to teach us about how AI is developed/trained in order for us to reflect upon the ethics of such processes.
 
 ## Discussion (The use of creative work for training)
-  1. Is the practice of generative AI using the creative art of others ethical?
+  1. **Is the practice of generative AI using the creative art of others ethical?**
   - I believe writers, artists, and other creators deserve recognition when their work is used to train AI. It feels unethical to claim or present AI-generated outputs without acknowledging their creators. At minimum, they should be credited, and if anything, they should have some control over how their work is used.
 
-  2. How can those who want to change the system go about doing so?
+  2. **How can those who want to change the system go about doing so?**
   - Creating clear guidelines and push for new norms around responsible AI use is a step in that direction. For example, advocating for transparency, requiring companies to disclose training sources or even labeling AI-generated work.
   
-  3. Can the market solve the problem, such as through licensing agreements between publishers and AI companies? 
+  3. **Can the market solve the problem, such as through licensing agreements between publishers and AI companies?** 
   - Licensing agreements could be part of the solution, but I don’t think the market can solve this issue yet. AI is growing so quickly that it feels overwhelming to apply standards retroactively.
 
-  4. What about copyright law — either interpreting existing law or by updating it? What other policy interventions might be helpful?
+  4. **What about copyright law — either interpreting existing law or by updating it? What other policy interventions might be helpful?**
   - Copyright law could play a big role, but not right now. I think our current laws can't be applied because they weren’t written with AI in mind. However, updating copyright law to explicitly cover AI training data could help protect creators.
 
 ## New Discussion Question
