@@ -1,8 +1,8 @@
 ---
 title: "Podcast 2: Bot-ched Statistics?"
 collection: podcasts
-permalink: /podcasts/podcast1
-excerpt: "Let's chat about ethical frameworks in Breaking Bad, Family Guy, and The Hunger Games."
+permalink: /podcasts/podcast2
+excerpt: "Let's chat about LLMs and trust in their outputs."
 date: 2025-10-12
 audio: ethics_fall2025/files/Nintunze_Chavez_Idris_Podcast2.mp3
 video: ethics_fall2025/files/Nintunze_Chavez_Idris_Podcast2.mp4
