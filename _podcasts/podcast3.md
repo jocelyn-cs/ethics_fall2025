@@ -9,4 +9,6 @@ video: ethics_fall2025/files/Chavez_Idris_Nintunze.mp4
 
 ---
 In this podcast we will be discussing how social media has made an impact on personal relationships. We explore how social media can benefit, harm, and maintain these relationships from various perspectives. Featuring Dylan-Dirac Nintunze and Marwa Idris.
+
+
 ![alt text](image.png)
