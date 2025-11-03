@@ -1,6 +1,6 @@
 ---
 permalink: /casestudy/
-title: "Case Study"
+title: "Case Study: Youth and brain-dead media"
 author_profile: true
 ---
 
@@ -8,10 +8,20 @@ Drop spot for your case study work
 
 ## Overview
 
-For your semester project, you and a partner will create an original case study
-modeled after those we read in class. Your case study must present an ethical issue in computing and can focus on any topic of your choosing. Some possible ideas include algorithmic bias and discrimination, surveillance technologies, facial recognition, data privacy, misinformation and deepfakes, generative AI and authorship, the climate impact of computing, digital labor and gig work, cybersecurity and hacking, accessibility and inclusion in technology, militarization of technology, AI companionship and social robotics, and cryptocurrency, though you are encouraged to select a topic not found on this list if it aligns with your interests and research.
+Here I will add a short description of my case study.
 
-## Requirements
+## Ethical Issues
+1. **Could this decision or situation be damaging to someone or to some group, or unevenly beneficial to people? Does this decision involve a choice between a good and bad alternative, or perhaps between two “goods” or between two “bads”?**
+    Yes. The situation can be damaging to children and teens who spend excessive time on YouTube or TikTok, as it may negatively affect their attention span, self-esteem, and mental health. At the same time, it is unevenly beneficial to tech companies that profit from youth engagement and data collection.
 
-Your case study will take the form of a website (built with Jekyll and GitHub Pages) that presents an ethical issue in computing. You will identify and research an ethical issue in computing or AI, write accessible content tailored for three different audiences, include an interactive activity that helps readers learn and reflect on the issue, and develop a set of discussion questions to spark engagement and deeper thinking. Your project must be engaging, well-researched, cite sources appropriately, and be designed for multiple audiences.
+**Is this issue about more than solely what is legal or what is most efficient? If so, how?**
+    Much of what these platforms do is legal and profitable, but the issue raises ethical questions about protecting children’s wellbeing, privacy, and development. It’s also about whether companies have a moral responsibility to design technology that prioritizes human health over profit, and whether society should hold them accountable for the long-term effects on the next generation.
 
+## Facts
+In this section I will add cited facts from articles I will be discussing. I will also add an infographic or something visually engaging.
+
+## Evaluate Alternative Actions
+Here I will analyze what we can do about this problem through a certain ethical lens (not sure which one yet).
+
+## Reflection
+Overall reflection and application of my decision.
