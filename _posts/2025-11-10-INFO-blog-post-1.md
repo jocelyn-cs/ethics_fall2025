@@ -36,4 +36,5 @@ Misinformation and Censorship
   I chose this question because of question #4 (What strategies can you employ to avoid falling for misinformation online?). It made me stop to think about if we'll ever see a time where we can simple trust the information that is presented to us. Many people don't have the time or ability to check their sources, for example. Which brings me to a greater question: How are different communities effected by misinformation and how does the impact differ?
 
 ## Reflection
+
   This case study made me stop to think about the types of misinformation and censorship I personally come across. Many of my friends like to know and see the raw details when it comes to current events. However, a lot of the times they spread misinformation in doing do. The importance of fact checking isn't talked about enough when it comes to social media, and I think it's because it's just easier to not. It's easier to hit a share button than it is to check the sources, for many. Censorship is very eye-opening concept when it comes to social media, because although many would like to know everything 100%, I think sometimes it does more good than harm. 
