@@ -8,4 +8,6 @@ audio: ethics_fall2025/files/Idris_Nintunze_Salazar_Podcast4.mp3
 video: ethics_fall2025/files/Idris_Nintunze_Salazar_Podcast4.mp4
 
 ---
-In this podcast we will be discussing...
+In this podcast we create our own Black Mirror inspired episodes using current rising technologies. We use Meta-Glasses, self-driving cars, and deepfake technologies to as our main tools gone bad. Featuring Dylan-Dirac Nintunze and Marwa Idris.
+
+![alt text](black_mirror.png)
