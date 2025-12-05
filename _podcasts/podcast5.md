@@ -12,6 +12,6 @@ In this podcast we talk about the article "Meme Aesthetics" by Stephen Best, Mia
 
 ![Alice in Wonderland Rabbit "time is running out" Meme](rabbitclock.jpg) Alice in Wonderland Rabbit "time is running out" Meme
 
-![The Notebook Yearing Meme](yearning.jpg) The Notebook Yearing Meme
+![The Notebook Yearing Meme](yearning.jpg) The Notebook Yearning Meme
 
 ![Dexter Suspicious Meme](dexterdoakesmeme.jpg) Dexter Suspicious Meme
