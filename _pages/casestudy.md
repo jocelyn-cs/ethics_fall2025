@@ -4,6 +4,9 @@ title: "Case Study: Algorithmic Short-Form Video and Youth Wellbeing"
 author_profile: true
 ---
 
+A focus on YouTube and TikTok and the effects on children.
+![kid with phone](kid-with-phone.jpg)
+
 ## Abstract
 Short-form video platforms like YouTube and TikTok play a big role in how kids and teenagers learn, connect with others, and spend their free time online. These platforms use recommendation algorithms that are designed to keep users watching for as long as possible through features like autoplay, endless scrolling, notifications, and fast-paced videos. While these tools can be fun and can help people learn or express creativity, they also raise ethical concerns about attention span, mental health, data collection, and how much responsibility tech companies have toward younger users.
 
