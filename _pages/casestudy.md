@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 A focus on YouTube and TikTok and the effects on children.
+
 ![kid with phone](kid-with-phone.jpg)
 
 ## Abstract
