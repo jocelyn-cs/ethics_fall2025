@@ -114,6 +114,14 @@ From this perspective, platforms should be designed with empathy for children’
 
 Although these ethical frameworks approach the problem in different ways, they all point to the same conclusion: children’s vulnerability creates a higher ethical responsibility for technology designers. When algorithms are designed mainly to maximize engagement without considering developmental limits, they raise serious ethical concerns across multiple moral perspectives.
 
+## Activity: You’re in Charge of the App!
+**What's Going On?**
+
+Imagine you get to help design a video app for kids and teens like you. You don’t have to code anything, you just get to make choices about how the app works. There are no “right” answers. The goal is to think about how design choices can affect how people feel and act.
+
+[Click here to go to interactive activity!](activity/)
+
+
 
 # Audience-Specific Perspectives
 
