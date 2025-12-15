@@ -1,6 +1,7 @@
 ---
 title: "Activity: You’re in Charge of the App!"
 layout: default
+author_profile: true
 ---
 ## What's Going On?
 

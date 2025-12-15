@@ -1,6 +1,7 @@
 ---
 title: "Citations"
 layout: default
+author_profile: true
 ---
 
   Covington, P., Adams, J., & Sargin, E. (2016). Deep Neural Networks for YouTube Recommendations. Proceedings of the 10th ACM Conference on Recommender Systems, 191–198. https://doi.org/10.1145/2959100.2959190

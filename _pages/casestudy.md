@@ -87,7 +87,7 @@ From a Rawlsian point of view, this system is unfair. If people did not know whe
 
 Utilitarianism focuses on overall outcomes. Short-form video platforms clearly provide benefits, such as entertainment, creativity, and social connection for many users. However, research suggests that excessive use can be linked to negative mental health outcomes for children and adolescents, including anxiety and attention issues (Montag and Elhai).
 
-If these harms affect a large number of young users, the overall negative impact may outweigh the benefits. From a utilitarian perspective, reducing harm to children—even if it lowers engagement—could lead to better outcomes for society as a whole.
+If these harms affect a large number of young users, the overall negative impact may outweigh the benefits. From a utilitarian perspective, reducing harm to children, even if it lowers engagement, could lead to better outcomes for society as a whole.
 
 **Natural Law Ethics**
 *What is naturally good for us?*
@@ -120,8 +120,6 @@ Although these ethical frameworks approach the problem in different ways, they a
 Imagine you get to help design a video app for kids and teens like you. You don’t have to code anything, you just get to make choices about how the app works. There are no “right” answers. The goal is to think about how design choices can affect how people feel and act.
 
 [Click here to go to interactive activity!](activity/)
-
-
 
 # Audience-Specific Perspectives
 
@@ -157,4 +155,4 @@ Balancing innovation with protection is challenging, but ethical responsibility 
 5. What would success look like for a youth-centered platform?
 
 ## Conclusion and Reflection
-This case study demonstrates how ethical issues in computing often emerge from incentive structures rather than intentional harm. When profit-driven systems interact with vulnerable users, ethical responsibility extends beyond legality. Addressing these challenges requires thoughtful design, informed users, supportive caregivers, and accountable policy. Ethical computing is not about rejecting technology, but shaping it to promote human wellbeing.
+This case study shows us that ethical problems in computing don’t always come from bad intentions, but often from how systems are designed and what they are rewarded to do. When platforms are built mainly to make money and are used by kids or teens, the impact can go beyond what the law covers. This makes me think that responsibility doesn’t just fall on programmers, but also on designers, parents, users, and policymakers. Ethical computing isn’t about getting rid of technology, but about using and shaping it in a way that actually supports people’s wellbeing.
